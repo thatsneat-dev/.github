@@ -2,6 +2,8 @@
 This is a GitHub organization I am currently building and re-organizing some of my projects under.
 
 As the name implies, this is for things I find novel and enteratining (neat) that I write.  There may or may not be much here, it all depends on what I want to write and when.
+
+The organization profile photo is from [Glass and Checkerboard](https://www.nga.gov/artworks/166491-glass-and-checkerboard) by Juan Gris, which is available in the public domain and licensed under [CC0](https://creativecommons.org/public-domain/cc0/).  It's one of those things I find neat.
 <!--
 
 **Here are some ideas to get you started:**
